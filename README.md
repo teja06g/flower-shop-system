@@ -1,1 +1,2 @@
 # flower-shop-system
+CloudShop Management System is an online flower shopping website developed to provide floral products and bouquet sales through a user-friendly platform. The system includes Admin and User modules. Users can browse and purchase flowers online, as well as send requests for customized bouquets. Based on the customer’s request, the admin designs and uploads the customized bouquet to the website, allowing users to purchase it easily online.
